@@ -1,0 +1,23 @@
+﻿Build started 04/06/2017 12:03:15.
+     1>Project "E:\00 NGULIah\02 TUGAS KULIah\01. Semester 1\latian c++\Projects\08 Project Calories Counter Adit\project calories counter\project calories counter.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\project calories counter.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         E:\Program Files\Ms Visual Studio 10\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Aditmail-first try.cpp"
+         Aditmail-first try.cpp
+     1>Aditmail-first try.cpp(1465): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         E:\Program Files\Ms Visual Studio 10\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\00 NGULIah\02 TUGAS KULIah\01. Semester 1\latian c++\Projects\08 Project Calories Counter Adit\Release\project calories counter.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\project calories counter.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\00 NGULIah\02 TUGAS KULIah\01. Semester 1\latian c++\Projects\08 Project Calories Counter Adit\Release\project calories counter.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\00 NGULIah\02 TUGAS KULIah\01. Semester 1\latian c++\Projects\08 Project Calories Counter Adit\Release\project calories counter.lib" /MACHINE:X86 "Release\Aditmail-first try.obj"
+         Generating code
+         Finished generating code
+         project calories counter.vcxproj -> E:\00 NGULIah\02 TUGAS KULIah\01. Semester 1\latian c++\Projects\08 Project Calories Counter Adit\Release\project calories counter.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\00 NGULIah\02 TUGAS KULIah\01. Semester 1\latian c++\Projects\08 Project Calories Counter Adit\Release\project calories counter.exe;#1" /manifest "Release\project calories counter.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\project calories counter.unsuccessfulbuild".
+         Touching "Release\project calories counter.lastbuildstate".
+     1>Done Building Project "E:\00 NGULIah\02 TUGAS KULIah\01. Semester 1\latian c++\Projects\08 Project Calories Counter Adit\project calories counter\project calories counter.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.46
